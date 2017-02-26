@@ -1,0 +1,65 @@
+[
+ {
+  "taskId": "fill-in-the-blanks-3098182283",
+  "points": 0,
+  "state": {
+   "active": []
+  },
+  "results": []
+ },
+ {
+  "taskId": "fill-in-the-blanks-734990205",
+  "points": 1,
+  "state": {
+   "active": [
+    "27"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "27"
+    ],
+    "right": [
+     "27"
+    ],
+    "timestamp": 1484246408675
+   }
+  ]
+ },
+ {
+  "taskId": "fill-in-the-blanks-3733154250",
+  "points": 0,
+  "state": {
+   "active": []
+  },
+  "results": []
+ },
+ {
+  "taskId": "multiple-choice-4245903732",
+  "points": 0,
+  "state": {
+   "active": null
+  },
+  "results": []
+ },
+ {
+  "taskId": "fill-in-the-blanks-3094364929",
+  "points": 0,
+  "state": {
+   "active": [
+    null,
+    ""
+   ]
+  },
+  "results": []
+ },
+ {
+  "taskId": "fill-in-the-blanks-4111078957",
+  "points": 0,
+  "state": {
+   "active": []
+  },
+  "results": []
+ }
+]

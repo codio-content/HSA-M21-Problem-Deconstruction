@@ -1,0 +1,81 @@
+{
+ "sections": [
+  {
+   "id": "3d2fae88-ff9e-5b05-9f46-bf0c0b6cfad8",
+   "title": "Problem Deconstruction",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Problem-Deconstruction-3d2f.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "75ce83f8-7de3-690f-bdbd-94288b197d87",
+   "title": "Dice Game",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "DiceGame/Dice.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Dice-Game-75ce.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "af1ea2bb-57e0-e184-5aab-abbc087fd088",
+   "title": "Multiple Dice",
+   "files": [
+    {
+     "path": "DiceGame/DiceGame.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Multiple-Dice-af1e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "30328a00-5b73-3c22-569c-2946a9fb5c40",
+   "title": "Problem Deconstruction Quiz",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Problem-Deconstruction-Quiz-3032.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
